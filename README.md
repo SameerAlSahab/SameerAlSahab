@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there, I'm Sameer Al Sahab. I am only 19 years old. From Dhaka , Bangladesh
 
 Deeply passionate about low-level Android development, kernel manipulation, and reverse engineering. With a decade-long journey starting from early mobile modding to building complex AOSP-based ROMs.
@@ -29,11 +29,8 @@ Here are some of my major contributions to the Android development scene:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@sameeralsahab/videos) 
 
 # 📊 GitHub Stats:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameeralsahab" alt="sameeralsahab" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeralsahab&show_icons=true&locale=en&layout=compact" alt="sameeralsahab" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameeralsahab&show_icons=true&locale=en" alt="sameeralsahab" /></p>
-
-
 ---
 
 
