@@ -10,9 +10,10 @@
 
 ## 🛠 Tech Stack
 
+![Profile Badge](https://gitme-gamma.vercel.app/api/badge?name=Sameer+Al+Sahab&role=Software,+networks+and+reverse+engineering&dob=2006-05-22&school=East+West+University&skills=linux,git,android,html,kernel,bash,c,smali&interests=Reverse+Engineering,Cybersecurity,Hardware+%2F+IoT,Open+Source,Gaming&theme=github-dark&font=sans&iconMode=real)
+
 | Category | Details |
 |---|---|
-| **Languages** | Bash/Shell, Smali (Dalvik bytecode), HTML |
 | **Learning**  | C++, Python |
 | **OS**        | Arch Linux, MacOS (Hackingtosh)  |
 
