@@ -1,6 +1,4 @@
-# Sameer Al Sahab
-
-19 y/o developer from Dhaka, Bangladesh. Passionate about Android development, hardware security, and reverse engineering. Started with Android and iOS modding, now building AOSP-based ROMs and security tools.
+# Hey There!!!!
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
@@ -9,13 +7,7 @@
 ---
 
 ## 🛠 Tech Stack
-
-![Profile Badge](https://gitme-gamma.vercel.app/api/badge?name=Sameer+Al+Sahab&role=Software,+networks+and+reverse+engineering&dob=2006-05-22&school=East+West+University&skills=linux,git,android,html,kernel,bash,c,smali&interests=Reverse+Engineering,Cybersecurity,Hardware+%2F+IoT,Open+Source,Gaming&theme=github-dark&font=sans&iconMode=real)
-
-| Category | Details |
-|---|---|
-| **Learning**  | C++, Python |
-| **OS**        | Arch Linux, MacOS (Hackingtosh)  |
+![Profile Badge](https://gitme-gamma.vercel.app/api/badge?name=Sameer+Al+Sahab&role=Reverse+Engineer+and+OS+Nerd&dob=2006-05-22&school=East+West+University&github=SameerAlSahab&footer=Welcome+to+my+pretty+little+profile%21%21&skills=linux,git,android,html,kernel,bash,c,smali&learning=cpp,python&os=arch,hackintosh,macos,windows,ubuntu,android,kali&interests=Reverse+Engineering,Cybersecurity,Hardware+/+IoT,Open+Source,Game+Development,Websites,ROMs,AOSP&theme=dark&font=code&iconMode=real)
 
 ---
 
