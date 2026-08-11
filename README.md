@@ -9,7 +9,7 @@
 ## 🛠 Tech Stack
 ![Profile Badge](https://gitme-gamma.vercel.app/api/badge?name=Sameer+Al+Sahab&role=Reverse+Engineer+and+OS+Nerd&dob=2006-05-22&school=East+West+University&github=SameerAlSahab&footer=Welcome+to+my+pretty+little+profile%21%21&skills=linux,git,android,html,kernel,bash,c,smali&learning=cpp,python&os=arch,hackintosh,macos,windows,ubuntu,android,kali&interests=Reverse+Engineering,Cybersecurity,Hardware+/+IoT,Open+Source,Game+Development,Websites,ROMs,AOSP&theme=dark&font=code&iconMode=real)
 
-![age](https://agecount.vercel.app/api/age?birth=2002-04-09T00%3A00%3A00&theme=inferno&size=sm&weight=regular&anim=regular)
+![age](https://agecount.vercel.app/api/age?birth=2006-05-22T06%3A00%3A00&theme=rosegold&size=sm&weight=thin&anim=counter&font=code&gap=20&glow=on)
 ---
 
 ## Projects
