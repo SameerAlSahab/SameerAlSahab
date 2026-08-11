@@ -1,26 +1,34 @@
 # Sameer Al Sahab
 
-Developer from Dhaka, Bangladesh. Passionate about Android development, hardware security, and reverse engineering. Started with Android and iOS modding, now building AOSP-based ROMs and security tools.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Product+Sans&weight=500&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer;Hardware+Security+%26+Reverse+Engineering;Building+Custom+ROMs+and+Security+Tools" alt="Typing animation" />
+</p>
 
+<div align="center">
+
+<p>
+  <a href="https://github.com/SameerAlSahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+</div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 💻 Coding Skills
-
+## About Me
+ 
+Developer from Dhaka, Bangladesh. Passionate about Android development, hardware security, and reverse engineering. Started with Android and iOS modding, now building AOSP-based ROMs and security tools.
+ 
+---
+ 
+## Skills
+ 
 <p align="center">
-  <br />
   <img src="https://skillicons.dev/icons?i=c,bash,linux,arch,html,godot,unity" alt="Skills" />
 </p>
-
-</td>
-<td width="50%" valign="top">
 
 ## 🛠 Tech Stack
 
@@ -40,14 +48,14 @@ Developer from Dhaka, Bangladesh. Passionate about Android development, hardware
 ---
 
 ## Projects
-
+#### Cybersecurity and Networks
 | Project | Description |
 |:--------|:-------------|
 | **[HydraESP — ESP32 Deauther](https://github.com/SameerAlSahab/ESP32-Deauther)** | Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. |
 
 ---
 
-## Android / ROM Projects (Top Recents Only)
+#### Android / ROM Projects (Top Recents Only)
 
 | Project | Description |
 |:--------|:-------------|
@@ -56,33 +64,9 @@ Developer from Dhaka, Bangladesh. Passionate about Android development, hardware
 | **[AstroROM OneUI 8 — Galaxy S23 Ultra](https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/)** | Galaxy S25 Ultra features ported to the Galaxy S23 Ultra. |
 
 ---
+ 
 
-## 👤 Personal Details
 
-<table border="0">
-  <tr>
-    <td align="center" valign="middle" width="50%">
-      <b>My Age:</b><br/>
-      <img src="https://agecount.vercel.app/api/age?birth=2006-05-22T06%3A00%3A00&theme=red&size=sm&weight=thin&anim=360&font=code&gap=20&glow=off)" alt="Age Counter" />
-    </td>
-    <td valign="middle" width="50%">
-      <ul>
-        <li><b>Education:</b> Ideal School & College, Motijheel, Dhaka</li>
-        <li><b>University:</b> East West University, Dhaka (Current)</li>
-        <li><b>Degree:</b> BSc in Computer Science & Engineering</li>
-        <li><b>Status:</b> Currently Studying (Expected completion ~2029)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 Find Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SameerAlSahab)
-[![XDA Forums](https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white)](https://xdaforums.com/m/sameer-al-sahab.12550923/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sameeralsahab)
 
 
 
