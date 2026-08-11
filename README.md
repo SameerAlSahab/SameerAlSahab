@@ -1,15 +1,24 @@
-# Hey There!!!!
+# Sameer Al Sahab
+
+Developer from Dhaka, Bangladesh. Passionate about Android development, hardware security, and reverse engineering. Started with Android and iOS modding, now building AOSP-based ROMs and security tools.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
 </p>
 
+
 ---
 
 ## 🛠 Tech Stack
-![Profile Badge](https://gitme-gamma.vercel.app/api/badge?name=Sameer+Al+Sahab&role=Reverse+Engineer+and+OS+Nerd&dob=2006-05-22&school=East+West+University&github=SameerAlSahab&footer=Welcome+to+my+pretty+little+profile%21%21&skills=linux,git,android,html,kernel,bash,c,smali&learning=cpp,python&os=arch,hackintosh,macos,windows,ubuntu,android,kali&interests=Reverse+Engineering,Cybersecurity,Hardware+/+IoT,Open+Source,Game+Development,Websites,ROMs,AOSP&theme=dark&font=code&iconMode=real)
+| Category | Details |
+|---|---|
+| **CPU**       | Ryzen 7 5700X                   |
+| **GPU**       | NVIDIA GeForce RTX 4080         |
+| **Laptop**    | Intel Core i5-7200U with HD 620 |
+| **OS**        | Arch Linux, MacOS (Hackingtosh) |
 
-![age](https://agecount.vercel.app/api/age?birth=2006-05-22T06%3A00%3A00&theme=rosegold&size=sm&weight=thin&anim=counter&font=code&gap=20&glow=on)
+---
+
 ---
 
 ## Projects
@@ -29,6 +38,12 @@ Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon varia
 
 **[AstroROM OneUI 8 — Galaxy S23 Ultra](https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/)**
 Galaxy S25 Ultra features ported to the Galaxy S23 Ultra.
+
+---
+
+## 👤 Personal Details
+
+![Age](https://agecount.vercel.app/api/age?birth=2006-05-22T06%3A00%3A00&theme=rosegold&size=sm&weight=thin&anim=counter&font=code&gap=20&glow=on) <span>&nbsp;•&nbsp;</span> **Education:** Ideal School & College, Motijheel, Dhaka <span>&nbsp;|&nbsp;</span> East West University, Dhaka
 
 ---
 
