@@ -43,7 +43,19 @@ Galaxy S25 Ultra features ported to the Galaxy S23 Ultra.
 
 ## 👤 Personal Details
 
-![Age](https://agecount.vercel.app/api/age?birth=2006-05-22T06%3A00%3A00&theme=rosegold&size=sm&weight=thin&anim=counter&font=code&gap=20&glow=on) <span>&nbsp;•&nbsp;</span> **Education:** Ideal School & College, Motijheel, Dhaka <span>&nbsp;|&nbsp;</span> East West University, Dhaka
+<table border="0">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://agecount.vercel.app/api/age?birth=2006-05-22T06%3A00%3A00&theme=rosegold&size=sm&weight=thin&anim=counter&font=code&gap=20&glow=on" alt="Age Counter" />
+    </td>
+    <td valign="middle" width="50%">
+      <ul>
+        <li><b>Education:</b> Ideal School & College, Motijheel</li>
+        <li><b>University:</b> East West University, Dhaka</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
