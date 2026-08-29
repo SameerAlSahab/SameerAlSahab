@@ -27,7 +27,7 @@ Developer from Dhaka, Bangladesh. Passionate about Android development, hardware
 ## Skills
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,arch,html,godot,unity, mac, android" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,arch,html,godot,unity,mac,android" alt="Skills" />
 </p>
 
 ---
