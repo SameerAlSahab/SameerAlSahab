@@ -27,21 +27,8 @@ Developer from Dhaka, Bangladesh. Passionate about Android development, hardware
 ## Skills
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,arch,html,godot,unity" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,bash,linux,arch,html,godot,unity, mac, android" alt="Skills" />
 </p>
-
-## 🛠 Tech Stack
-
-| Category | Details |
-|---|---|
-| **CPU** | Ryzen 7 5700X |
-| **GPU** | NVIDIA GeForce RTX 4080 |
-| **Laptop** | Intel Core i5-7200U with HD 620 |
-| **OS** | Arch Linux, MacOS (Hackintosh) |
-
-</td>
-</tr>
-</table>
 
 ---
 
