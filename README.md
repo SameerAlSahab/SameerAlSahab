@@ -67,13 +67,13 @@ Currently, I am pursuing a B.Sc. in Computer Science and Engineering (CSE) at Ea
 | Project | Description |
 |:--------|:-------------|
 | **[HydraESP — ESP32 Deauther](https://github.com/SameerAlSahab/ESP32-Deauther)** | Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. |
-| **[META-Verse](https://github.com/SameerAlSahab/META-Verse)** | A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. |
+| **[META-Verse](https://github.com/SameerAlSahab/META-Verse)** | A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Educational demonstration) |
 
 #### Side Projects 
 | Project | Description |
 |:--------|:-------------|
 | **[AppsPorter](https://github.com/SameerAlSahab/AppsPorter)** | Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more. |
-| **[The poor student's Macbook Air](https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI)** | Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019. |
+| **[The poor student's Macbook](https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI)** | Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019. |
 
 #### OS / Reverse Engineering Projects (Recents Only 2026)
 
