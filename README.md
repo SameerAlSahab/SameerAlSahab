@@ -43,7 +43,6 @@
 </td>
   </tr>
 </table>
-<table><tr><td valign="top" width="33%">
 
 ## Myself
 #### One Liner huh!
@@ -52,7 +51,7 @@ Hi! My name is Sameer Al Sahab and I make open source projects.
 I'm from Dhaka, Bangladesh, initially from Rajshahi.
 
 My journey into tech began in 2014 when I jailbroke my dad's iPhone 5 and started heavily modifying iOS. Since then, I've loved exploring operating systems and creating mods.
-Today, I work on Samsung ROM ports and AOSP modifications. Besides that, I enjoy building solutions and experimenting with new technologies.
+Today, I work on Samsung ROM ports and AOSP modifications. AstroROM, my main ROM project, has been ported and spread across 10+ Samsung devices with an active, niche community behind it. Besides that, I enjoy building solutions and experimenting with new technologies.
 Outside of tech, I love gardening 🌱 and pets (especially cats 🐈)❤️
 Forgot to mention, I am also creating some meaningful websites with the help of supabase and vercel.
 
@@ -85,9 +84,3 @@ Currently, I am pursuing a B.Sc. in Computer Science and Engineering (CSE) at Ea
 
 ##
 That was a little bit about myself. Btw I do a lot more stuffs in my own world.
-
-
-
-
- 
-
