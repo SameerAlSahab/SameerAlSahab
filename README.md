@@ -1,48 +1,42 @@
-# Sameer Al Sahab
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer;Hardware+Security+%26+Reverse+Engineering;Welcome+to+my+mad+world!" alt="Typing animation" />
 </p>
 
-<div align="center">
+<table border="0">
+<tr>
+<td valign="top" width="38%">
 
-<p>
-  <a href="https://github.com/SameerAlSahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://t.me/apcports2">
-  <img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://t.me/astroromofficial">
-  <img src="https://img.shields.io/badge/ASTRO_DEVS_COMMUNITY-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://t.me/IshiharaROM">
-  <img src="https://img.shields.io/badge/ISHI_SUPPORT_(DEPRECATED)-6B7280?style=for-the-badge&logo=telegram&logoColor=white" />
+<p align="left">
+<a href="https://github.com/SameerAlSahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+<a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a><br/>
+<a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a><br/>
+<a href="https://t.me/apcports2"><img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" /></a><br/>
+<a href="https://t.me/IshiharaROM"><img src="https://img.shields.io/badge/ISHI_SUPPORT_(DEPRECATED)-6B7280?style=for-the-badge&logo=telegram&logoColor=white" /></a><br/><br/>
+<img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="left">
+<a href="https://t.me/astroromofficial">
+<img src="https://img.shields.io/badge/💬_JOIN_ASTRO_DEVS_COMMUNITY-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
-</div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
-</p>
- 
 
- 
+</td>
+<td valign="top" width="62%">
+<img width="100%" alt="SameerAlSahab's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SameerAlSahab?cardType=level&theme=synthwave&fontFamily=Solway&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=10&Points.DirectStars=10&Points.Followers=10&Points.IndirectStars=10&Points.Issues=10&Points.PullRequests=10&Points.PullRequestsToAnotherRepositories=10&Points.CommitsToMyRepositories=10&Points.ContributedTo=10" />
+<br/>
+
+
+</td>
+</tr>
+</table>
+
 ## Skills
- 
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,bash,linux,arch,html,godot,apple,markdown,latex,git,androidstudio,vercel,supabase,arduino" alt="Skills" height="56" />
 </p>
 
-<table border="0">
-  <tr>
-    <td>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=synthwave&fontFamily=Solway&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=10&Points.DirectStars=10&Points.Followers=10&Points.IndirectStars=10&Points.Issues=10&Points.PullRequests=10&Points.PullRequestsToAnotherRepositories=10&Points.CommitsToMyRepositories=10&Points.ContributedTo=10">    <img  alt="SameerAlSahab's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/SameerAlSahab?cardType=level&theme=synthwave&fontFamily=Solway&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=10&Points.DirectStars=10&Points.Followers=10&Points.IndirectStars=10&Points.Issues=10&Points.PullRequests=10&Points.PullRequestsToAnotherRepositories=10&Points.CommitsToMyRepositories=10&Points.ContributedTo=10" />  </a>
-    </td>
-<td>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SameerAlSahab&hide_border=true&bg_color=322B42&title_color=E8DDEA&text_color=D6C6D9&include_all_commits=true&count_private=true&layout=compact" />
-</td>
-  </tr>
-</table>
 
 ## Myself
 #### One Liner huh!
