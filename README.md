@@ -3,11 +3,12 @@
     <img
       src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_footer.jpg"
       alt="Sameer Al Sahab Footer"
-      height="140" />
+      height="155" />
   </a>
 </p>
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF1493&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer+⚡;Hardware+Security+%26+Reverse+Engineering+👨🏻‍💻;Welcome+to+my+mad+world!💎" alt="Typing animation" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF1493&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer+%E2%9A%A1;Hardware+Security+%26+Reverse+Engineering+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+to+my+mad+world%21+%F0%9F%92%8E" alt="Typing animation" />
 </p>
 
 <h2>Let's connect? 🤝</h2>
