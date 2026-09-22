@@ -1,3 +1,9 @@
+<p align="center">
+ <a href="https://www.sameeralsahab.me/">
+    <img src="https://github.com/SameerAlSahab/SameerAlSahab/blob/2026-undergraduate/readme-res/git_banner.png" alt="banner" />
+  </a>
+</p>
+
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A9C1C0&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer;Hardware+Security+%26+Reverse+Engineering;Welcome+to+my+mad+world!" alt="Typing animation" />
 </p>
