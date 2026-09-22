@@ -2,8 +2,7 @@
   <a href="https://www.sameeralsahab.me/">
     <img
       src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_footer.jpg"
-      alt="Sameer Al Sahab Header"
-      width="100%" />
+      alt="Sameer Al Sahab Header" />
   </a>
 </p>
 
