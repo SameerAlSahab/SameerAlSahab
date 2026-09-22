@@ -1,5 +1,5 @@
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer;Hardware+Security+%26+Reverse+Engineering;Welcome+to+my+mad+world!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A9C1C0&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer;Hardware+Security+%26+Reverse+Engineering;Welcome+to+my+mad+world!" alt="Typing animation" />
 </p>
 
 <div align="center">
@@ -24,14 +24,9 @@
 </p>
  
 <p align="center">
-<img alt="SameerAlSahab's GitHub Stats" src="https://sameeralsahabgitstats.vercel.app/api/card?username=SameerAlSahab&theme=catppuccin-mocha&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=0&show_top_repo=0" />
+<img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=galaxy-deep&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0" />
 </p>
 
-## Skills
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,bash,linux,arch,html,godot,apple,markdown,latex,git,androidstudio,vercel,supabase,arduino" alt="Skills" height="56" />
-</p>
 
 
 ## Myself
@@ -40,16 +35,6 @@ Hi! My name is Sameer Al Sahab and I make open source projects.
 #### Intro
 I'm from Dhaka, Bangladesh, initially from Rajshahi.
 
-My journey into tech began in 2014 when I jailbroke my dad's iPhone 5 and started heavily modifying iOS. Since then, I've loved exploring operating systems and creating mods.
-Today, I work on Samsung ROM ports and AOSP modifications. AstroROM, my main ROM project, has been ported and spread across 10+ Samsung devices with an active, niche community behind it. Besides that, I enjoy building solutions and experimenting with new technologies.
-Outside of tech, I love gardening 🌱 and pets (especially cats 🐈)❤️
-Forgot to mention, I am also creating some meaningful websites with the help of supabase and vercel.
-
-#### Education
-
-I completed my schooling at Ideal School and College, Motijheel, Dhaka.
-
-Currently, I am pursuing a B.Sc. in Computer Science and Engineering (CSE) at East West University (2026– ~2029).
 
 ## Projects
 #### Cybersecurity, Networks and Microcontrollers
