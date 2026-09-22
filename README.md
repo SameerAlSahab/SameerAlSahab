@@ -9,10 +9,10 @@
   <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
   <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://t.me/apcports2">
-  <img src="https://img.shields.io/badge/A_P_C-146C43?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" />
   </a>
   <a href="https://t.me/astroromofficial">
-  <img src="https://img.shields.io/badge/ASTRO_DEVS-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASTRO_DEVELOPERS-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://t.me/IshiharaROM">
   <img src="https://img.shields.io/badge/ISHI_DEVS_(DEPRECATED)-6B7280?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -30,7 +30,6 @@
 
 
 ## Myself
-#### One Liner huh!
 Hi! My name is Sameer Al Sahab and I make open source projects.
 #### Intro
 I'm from Dhaka, Bangladesh, initially from Rajshahi.
