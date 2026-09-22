@@ -2,44 +2,46 @@
   <a href="https://www.sameeralsahab.me/">
     <img
       src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_footer.jpg"
-      alt="Sameer Al Sahab Header" />
+      alt="Sameer Al Sahab Footer"
+      height="140" />
   </a>
 </p>
-
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A9C1C0&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer;Hardware+Security+%26+Reverse+Engineering;Welcome+to+my+mad+world!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF1493&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer+⚡;Hardware+Security+%26+Reverse+Engineering+👨🏻‍💻;Welcome+to+my+mad+world!💎" alt="Typing animation" />
 </p>
 
+<h2>Let's connect? 🤝</h2>
 <div align="center">
 
 <p>
   <a href="https://github.com/SameerAlSahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
   <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://t.me/apcports2">
-  <img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
   <a href="https://t.me/astroromofficial">
   <img src="https://img.shields.io/badge/ASTRO_DEVELOPERS-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://t.me/IshiharaROM">
   <img src="https://img.shields.io/badge/ISHI_DEVS_(DEPRECATED)-6B7280?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+  <a href="https://t.me/apcports2">
+  <img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
 </p>
 </div>
+
+<h2>Analytics ⚙️</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
 </p>
- 
+
 <p align="center">
-<img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=nord-frost&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0" />
+<img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=radical&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=0&show_top_repo=0" />
 </p>
 
 
 
-## Myself
+<h2>Myself <3</h2>
 Hi! My name is Sameer Al Sahab and I make open source projects.
-#### Intro
 I'm from Dhaka, Bangladesh, initially from Rajshahi.
 
 
