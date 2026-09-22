@@ -3,13 +3,33 @@
     <img
       src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_footer.jpg"
       alt="Sameer Al Sahab Footer"
-      height="155" />
+      height="165" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF1493&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer+%E2%9A%A1;Hardware+Security+%26+Reverse+Engineering+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+to+my+mad+world%21+%F0%9F%92%8E" alt="Typing animation" />
 </p>
+
+## Hey there 👋
+
+Nice to meet you. I'm **Sameer Al Sahab** — a Computer Science undergraduate at **East West University, Bangladesh**. Yes, another CSE student. No, I don't believe installing Arch Linux automatically makes someone a better developer. *(Although... btw.)*
+
+I enjoy understanding how software works beneath the surface. The fun begins where documentation ends — digging into Android and iOS internals, reverse engineering apps, patching ROMs, breaking things apart, and rebuilding them in a better way.
+
+I believe good software should be **useful, reliable, and open**. Not software that depends on endless workarounds, unnecessary complexity, or a hundred dependencies to accomplish something simple.
+
+Open source is where I spend most of my time. I build Android tools, firmware projects, Linux utilities, and automation scripts because sharing knowledge is more meaningful than keeping it locked away.
+
+Every project teaches me something new, but one lesson keeps repeating itself:
+
+> **Curiosity will always take you further than comfort.**
+
+I'm still learning, still experimenting, and still making mistakes. That's part of the journey.
+
+**Think. Code. Reverse. Evolve.**
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
 
 <h2>Let's connect? 🤝</h2>
 <div align="center">
@@ -30,6 +50,7 @@
 </p>
 </div>
 
+
 <h2>Analytics ⚙️</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
@@ -41,10 +62,9 @@
 
 
 
-<h2>Myself <3</h2>
-Hi! My name is Sameer Al Sahab and I make open source projects.
-I'm from Dhaka, Bangladesh, initially from Rajshahi.
 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
 
 ## Projects
 #### Cybersecurity, Networks and Microcontrollers
@@ -69,3 +89,5 @@ I'm from Dhaka, Bangladesh, initially from Rajshahi.
 
 ##
 That was a little bit about myself. Btw I do a lot more stuffs in my own world.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
