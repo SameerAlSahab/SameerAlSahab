@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://www.sameeralsahab.me/">
-    <img src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_banner.png" alt="Sameer Al Sahab Header" width="100%" max-width="800" />
+    <img
+      src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_footer.jpg"
+      alt="Sameer Al Sahab Header"
+      width="100%" />
   </a>
 </p>
 
