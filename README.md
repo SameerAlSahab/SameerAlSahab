@@ -9,13 +9,13 @@
   <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
   <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://t.me/apcports2">
-  <img src="https://img.shields.io/badge/APC-146C43?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/A_P_C-146C43?style=for-the-badge&logo=android&logoColor=white" />
   </a>
   <a href="https://t.me/astroromofficial">
   <img src="https://img.shields.io/badge/ASTRO_DEVS-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://t.me/IshiharaROM">
-  <img src="https://img.shields.io/badge/ISHI_(DEPRECATED)-6B7280?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISHI_DEVS_(DEPRECATED)-6B7280?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
 </div>
@@ -24,7 +24,7 @@
 </p>
  
 <p align="center">
-<img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=galaxy-deep&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0" />
+<img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=nord-frost&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0" />
 </p>
 
 
