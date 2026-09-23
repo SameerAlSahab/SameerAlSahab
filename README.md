@@ -87,3 +87,6 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 That was a little bit about myself. Btw I do a lot more stuffs in my own world.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+
+## Now Playing
+[![Now Playing](https://awesomegitwidgets.vercel.app/api/widget?url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3DzkLiWTNtxpU)](https://music.youtube.com/watch?v=zkLiWTNtxpU)
