@@ -32,20 +32,25 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
 
 <h2>Let's connect? 🤝</h2>
+<p align="center">
+  <s>Don't DM me, I am pretty busy.</s> Just kidding, you thought that! I'm always free. Feel free to reach out!
+</p>
+
 <div align="center">
 
 <p>
   <a href="https://github.com/SameerAlSahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sameeralsahab@proton.me"><img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
   <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://t.me/astroromofficial">
-  <img src="https://img.shields.io/badge/ASTRO_DEVELOPERS-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://t.me/IshiharaROM">
-  <img src="https://img.shields.io/badge/ISHI_DEVS_(DEPRECATED)-6B7280?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/ASTRO_DEVELOPERS-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/IshiharaROM">
+    <img src="https://img.shields.io/badge/ISHI_DEVS_(DEPRECATED)-FF1493?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
   <a href="https://t.me/apcports2">
-  <img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" />
   </a>
 </p>
 </div>
@@ -90,3 +95,5 @@ That was a little bit about myself. Btw I do a lot more stuffs in my own world.
 
 ## Now Playing
 [![Now Playing](https://ytmusicreadme.vercel.app/api/widget?url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D-eGM0IJc70Y)](https://music.youtube.com/watch?v=-eGM0IJc70Y)
+*Make yours from [My YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme)*
+
