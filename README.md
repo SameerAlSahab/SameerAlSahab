@@ -94,13 +94,16 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 | **[AppsPorter](https://github.com/SameerAlSahab/AppsPorter)** | Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more. |
 | **[The poor student's Macbook](https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI)** | Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019. |
 
-#### OS / Reverse Engineering Projects (Recents Only 2026)
+#### OS / Reverse Engineering Projects (Only 2026) [200K+ users worldwide]
 
 | Project | Description |
 |:--------|:-------------|
 | **[ProjectAstro — Script based ROM Patcher](https://github.com/SameerAlSahab/ProjectAstro)** | Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices. |
 | **[AstroROM S24 Ultra Port for Galaxy S20 5G (Snapdragon)](https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/)** | Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant. |
 | **[AstroROM S25 Ultra for Galaxy S23 Ultra](https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/)** | Galaxy S25 Ultra features ported to the Galaxy S23 Ultra. |
+| **[AstroROM OneUI 8 Port for Galaxy S20(Base/Plus/Ultra) whole series](https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/)** | Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series. |
+| **[AstroROM OneUI 8 For S21 Series](https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/)** | Galaxy S25 Ultra features ported to the Galaxy S21 Series. |
+*And more (not listed here)*
 
 ##
 That was a little bit about myself. Btw I do a lot more stuffs in my own world.
