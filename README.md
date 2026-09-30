@@ -65,6 +65,20 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=radical&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=0&show_top_repo=0" />
 </p>
 
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/East%20West%20University-CSE-7B2CBF?style=for-the-badge"
+    alt="East West University - CSE"
+  />
+  <img
+    src="https://img.shields.io/badge/Current%20Semester-2nd-FF6F00?style=for-the-badge"
+    alt="Current Semester: 2nd"
+  />
+  <img
+    src="https://img.shields.io/badge/Current%20CGPA-4.00%2F4.00-00C853?style=for-the-badge"
+    alt="Current CGPA: 4.00 out of 4.00"
+  />
+</p>
 
 
 ## Projects
