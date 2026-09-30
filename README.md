@@ -85,8 +85,8 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 #### Cybersecurity, Networks and Microcontrollers
 | Project | Description |
 |:--------|:-------------|
-| **[HydraESP — ESP32 Deauther](https://github.com/SameerAlSahab/ESP32-Deauther)** | Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. |
-| **[META-Verse](https://github.com/SameerAlSahab/META-Verse)** | A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Educational demonstration) |
+| **[HydraESP — ProjectHydra](https://github.com/SameerAlSahab/ESP32-Deauther)** | Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition.|
+| **[META-Verse](https://github.com/SameerAlSahab/META-Verse)** | A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration) |
 
 #### Side Projects 
 | Project | Description |
