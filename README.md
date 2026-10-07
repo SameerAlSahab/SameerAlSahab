@@ -62,7 +62,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </p>
 
 <p align="center">
-<img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=radical&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=1&show_issues=1&show_contributed=1&show_year=0&show_top_repo=0" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SameerAlSahab?cardType=level&theme=kacho-ga&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
 <p align="center">
