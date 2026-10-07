@@ -61,9 +61,9 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
 </p>
 
-<p align="center">
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/SameerAlSahab?cardType=level&theme=kacho-ga&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-</p>
+
 
 <p align="center">
   <img
