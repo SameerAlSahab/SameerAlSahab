@@ -86,6 +86,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 ## Projects🛠️
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+
 ## Cybersecurity, Networks and Microcontrollers
 <table border="0">
   <tr>
