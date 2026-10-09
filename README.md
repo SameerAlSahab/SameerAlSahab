@@ -96,16 +96,16 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <colgroup>
 <col width="22%"><col width="48%"><col width="30%">
 </colgroup>
-<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Type</th></tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/ESP32-Deauther">HydraESP — ProjectHydra</a></td>
 <td>Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition.</td>
-<td><code>C Code</code> <code>CyberSecurity Tool</code> <code>Hardcore pentesting</code></td>
+<td><code>C/C++</code> <code>CyberSec</code> <code>Hardcore</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/META-Verse">META-Verse</a></td>
 <td>A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration)</td>
-<td><code>Android</code> <code>Python</code> <code>Payload/Malware</code> <code>Educational</code></td>
+<td><code>Android</code> <code>Python</code> <code>Payload</code> <code>Malware</code> <code>Awareness</code></td>
 </tr>
 </table>
 
@@ -199,7 +199,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <tr>
 <td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp</a></td>
 <td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
-<td><code>Kotlin</code> <code>Supabase</code> <code>Android</code> <code>Material You</code></td>
+<td><code>Kotlin</code> <code>Supabase</code> <code>Android</code> <code>Web3</code></td>
 </tr>
 </table>
 
