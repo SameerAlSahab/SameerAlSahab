@@ -91,117 +91,49 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 ## Projects🛠️
 
 ## Cybersecurity, Networks and Microcontrollers
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/ESP32-Deauther">HydraESP — ProjectHydra</a></h4>
-      <p>Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition.</p>
-      <code>C Code</code> <code>CyberSecurity Tool</code> <code>Hardcore pentesting</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/META-Verse">META-Verse</a></h4>
-      <p>A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration)</p>
-      <code>Android</code> <code>Python</code> <code>Payload/Malware</code> <code>Educational</code>
-    </td>
-  </tr>
-</table>
 
+| Project | Description | Tech |
+|:---|:---|:---|
+| [HydraESP — ProjectHydra](https://github.com/SameerAlSahab/ESP32-Deauther) | Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition. | `C Code` `CyberSecurity Tool` `Hardcore pentesting` |
+| [META-Verse](https://github.com/SameerAlSahab/META-Verse) | A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration) | `Android` `Python` `Payload/Malware` `Educational` |
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## Android, AOSP & Samsung ROMs [⚡200K+ users worldwide]
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/ProjectAstro">ProjectAstro [Script based ROM Builder]</a></h4>
-      <p>Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices.</p>
-      <code>Bash (Shell)</code> <code>Automation</code> <code>Android</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/">AstroROM S24 Ultra Port for Galaxy S20 5G</a></h4>
-      <p>Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant.</p>
-      <code>OneUI 7</code> <code>Samsung</code> 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/">AstroROM S25 Ultra for Galaxy S23 Ultra</a></h4>
-      <p>Galaxy S25 Ultra features ported to the Galaxy S23 Ultra.</p>
-      <code>OneUI 8.5</code> <code>Samsung</code> 
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/">AstroROM OneUI 8 Port for Galaxy S20 Series</a></h4>
-      <p>Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series.</p>
-      <code>OneUI 8</code> <code>Samsung</code> 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/">AstroROM OneUI 8 For S21 Series</a></h4>
-      <p>Galaxy S25 Ultra features ported to the Galaxy S21 Series.</p>
-      <code>OneUI 8</code> <code>Samsung</code> 
-    </td>
-    <td width="50%" valign="top">
-      <!-- Empty slot to balance grid -->
-    </td>
-  </tr>
-</table>
 
+| Project | Description | Tech |
+|:---|:---|:---|
+| [ProjectAstro [Script based ROM Builder]](https://github.com/SameerAlSahab/ProjectAstro) | Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices. | `Bash (Shell)` `Automation` `Android` |
+| [AstroROM S24 Ultra Port for Galaxy S20 5G](https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/) | Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant. | `OneUI 7` `Samsung` |
+| [AstroROM S25 Ultra for Galaxy S23 Ultra](https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/) | Galaxy S25 Ultra features ported to the Galaxy S23 Ultra. | `OneUI 8.5` `Samsung` |
+| [AstroROM OneUI 8 Port for Galaxy S20 Series](https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/) | Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series. | `OneUI 8` `Samsung` |
+| [AstroROM OneUI 8 For S21 Series](https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/) | Galaxy S25 Ultra features ported to the Galaxy S21 Series. | `OneUI 8` `Samsung` |
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## Automation & System Utilities
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/AppsPorter">AppsPorter</a></h4>
-      <p>Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more.</p>
-      <code>Bash (Shell)</code> <code>Android</code> <code>Automation</code>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Empty slot to balance grid -->
-    </td>
-  </tr>
-</table>
 
+| Project | Description | Tech |
+|:---|:---|:---|
+| [AppsPorter](https://github.com/SameerAlSahab/AppsPorter) | Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more. | `Bash (Shell)` `Android` `Automation` |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## Side Projects & Tools
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI">The poor student's Macbook</a></h4>
-      <p>Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019.</p>
-      <code>OpenCore</code> <code>macOS</code> <code>ACPI</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/YTMusicReadme">YTMusicReadme</a></h4>
-      <p>GitHub readme music widget with album art, artist, and playing animations. Clicking it redirects to the music link. Make yours from <a href="https://ytmusicreadme.vercel.app/">ytmusicreadme.vercel.app</a>.</p>
-      <code>Vercel</code> <code>API</code> <code>Widgets</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/DolbyAtmosForEveryone">DolbyAtmosForEveryone</a></h4>
-      <p>Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.</p>
-      <code>Windows Drivers</code> <code>Reverse Engineering</code> 
-    </td>
-    <td width="50%" valign="top">
-      <!-- Empty slot to balance grid -->
-    </td>
-  </tr>
-</table>
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| [The poor student's Macbook](https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI) | Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019. | `OpenCore` `macOS` `ACPI` |
+| [YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme) | GitHub readme music widget with album art, artist, and playing animations. Clicking it redirects to the music link. Make yours from [ytmusicreadme.vercel.app](https://ytmusicreadme.vercel.app/). | `Vercel` `API` `Widgets` |
+| [DolbyAtmosForEveryone](https://github.com/SameerAlSahab/DolbyAtmosForEveryone) | Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it. | `Windows Drivers` `Reverse Engineering` |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## 🎓 Student Tools and Android Apps
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp</a></h4>
-      <p>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</p>
-      <code>Kotlin</code> <code>Supabase</code> <code>Android</code> <code>Material You</code>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Empty slot to balance grid -->
-    </td>
-  </tr>
-</table>
+
+| Project | Description | Tech |
+|:---|:---|:---|
+| [EWUPortalApp](https://github.com/SameerAlSahab/East-West-University-Portal-App) | An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design. | `Kotlin` `Supabase` `Android` `Material You` |
 
 *And more (not listed here)*
 
