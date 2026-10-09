@@ -92,48 +92,116 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 ## Cybersecurity, Networks and Microcontrollers
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| [HydraESP[ProjectHydra]](https://github.com/SameerAlSahab/ESP32-Deauther) | Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition. | `C Code` `CyberSecurity Tool` `Hardcore pentesting` |
-| [META-Verse](https://github.com/SameerAlSahab/META-Verse) | A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration) | `Android` `Python` `Payload/Malware` `Educational` |
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/ESP32-Deauther">HydraESP — ProjectHydra</a></td>
+<td>Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition.</td>
+<td><code>C Code</code> <code>CyberSecurity Tool</code> <code>Hardcore pentesting</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/META-Verse">META-Verse</a></td>
+<td>A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration)</td>
+<td><code>Android</code> <code>Python</code> <code>Payload/Malware</code> <code>Educational</code></td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## Android, AOSP & Samsung ROMs [⚡200K+ users worldwide]
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| [AstroROM[ProjectAstro] S24 Ultra Port for Galaxy S20 5G](https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/) | Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
-| [AstroROM[ProjectAstro] S25 Ultra for Galaxy S23 Ultra](https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/) | Galaxy S25 Ultra features ported to the Galaxy S23 Ultra. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
-| [AstroROM[ProjectAstro] OneUI 8 Port for Galaxy S20 Series](https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/) | Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
-| [AstroROM[ProjectAstro] OneUI 8 For S21 Series](https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/) | Galaxy S25 Ultra features ported to the Galaxy S21 Series. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/">AstroROM S24 Ultra Port for Galaxy S20 5G</a></td>
+<td>Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
+<td><a href="https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/">AstroROM S25 Ultra for Galaxy S23 Ultra</a></td>
+<td>Galaxy S25 Ultra features ported to the Galaxy S23 Ultra.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
+<td><a href="https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/">AstroROM OneUI 8 Port for Galaxy S20 Series</a></td>
+<td>Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
+<td><a href="https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/">AstroROM OneUI 8 For S21 Series</a></td>
+<td>Galaxy S25 Ultra features ported to the Galaxy S21 Series.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## Automation & System Utilities
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| [ProjectAstro[ProjectAstro] [Script based ROM Builder]](https://github.com/SameerAlSahab/ProjectAstro) | Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices. | `Bash (Shell)` `smali` `so` |
-| [AppsPorter](https://github.com/SameerAlSahab/AppsPorter) | Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more. | `Bash (Shell)` `Android` `Automation` |
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/ProjectAstro">ProjectAstro [Script based ROM Builder]</a></td>
+<td>Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices.</td>
+<td><code>Bash (Shell)</code> <code>smali</code> <code>so</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/AppsPorter">AppsPorter</a></td>
+<td>Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more.</td>
+<td><code>Bash (Shell)</code> <code>Android</code> <code>Automation</code></td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## Side Projects & Tools
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| [The poor student's Macbook](https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI) | Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019. | `OpenCore` `macOS` `ACPI` |
-| [YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme) | GitHub readme music widget with album art, artist, and playing animations. Clicking it redirects to the music link. Make yours from [ytmusicreadme.vercel.app](https://ytmusicreadme.vercel.app/). | `Vercel` `API` `Widgets` |
-| [DolbyAtmosForEveryone](https://github.com/SameerAlSahab/DolbyAtmosForEveryone) | Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it. | `Windows Drivers` `Reverse Engineering` |
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI">The poor student's Macbook</a></td>
+<td>Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019.</td>
+<td><code>OpenCore</code> <code>macOS</code> <code>ACPI</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/YTMusicReadme">YTMusicReadme</a></td>
+<td>GitHub readme music widget with album art, artist, and playing animations. Clicking it redirects to the music link. Make yours from <a href="https://ytmusicreadme.vercel.app/">ytmusicreadme.vercel.app</a>.</td>
+<td><code>Vercel</code> <code>API</code> <code>Widgets</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/DolbyAtmosForEveryone">DolbyAtmosForEveryone</a></td>
+<td>Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.</td>
+<td><code>Windows Drivers</code> <code>Reverse Engineering</code></td>
+</tr>
+</table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
 ## 🎓 Student Tools and Android Apps
 
-| Project | Description | Tech |
-|:---|:---|:---|
-| [EWUPortalApp[EWU Space]](https://github.com/SameerAlSahab/East-West-University-Portal-App) | An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode (which blocks apps and games), an on-device watermark-free document scanner with OCR, and full offline support with Material You design. | `Kotlin` `Supabase` `Android` `Material You` |
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp</a></td>
+<td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
+<td><code>Kotlin</code> <code>Supabase</code> <code>Android</code> <code>Material You</code></td>
+</tr>
+</table>
 
 *And more (not listed here)*
 
