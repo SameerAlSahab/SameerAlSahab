@@ -189,6 +189,20 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   </tr>
 </table>
 
+## 🎓 Student Tools and Android Apps
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp</a></h4>
+      <p>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</p>
+      <code>Kotlin</code> <code>Supabase</code> <code>Android</code> <code>Material You</code>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Empty slot to balance grid -->
+    </td>
+  </tr>
+</table>
+
 *And more (not listed here)*
 
 ##
