@@ -17,9 +17,13 @@ Nice to meet you. I'm **Sameer Al Sahab** (/saˈmiɾ al saˈhab/) — a Computer
 <details>
 <summary><b>Click to read more about my philosophy</b></summary>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+
 I enjoy understanding how software works under the surface.
 
 I believe good software should be **useful, reliable, and open**. Not software that depends on endless workarounds, unnecessary complexity, or a hundred dependencies to accomplish something simple.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
 
 </details>
 
