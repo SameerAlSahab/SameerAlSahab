@@ -12,7 +12,7 @@
 
 ## Hey there 👋
 
-Nice to meet you. I'm **Sameer Al Sahab** — a Computer Science undergraduate at **East West University, Bangladesh**. Yes, another CSE student. No, I don't believe installing Arch Linux automatically makes someone a better developer. *(Although... btw.)*
+Nice to meet you. I'm **Sameer Al Sahab** (/saˈmiɾ al saˈhab/) — a Computer Science undergraduate at **East West University, Bangladesh**. Yes, another CSE student. No, I don't believe installing Arch Linux automatically makes someone a better developer. *(Although... btw.)*
 
 <details>
 <summary><b>Click to read more about my philosophy</b></summary>
