@@ -94,7 +94,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [HydraESP — ProjectHydra](https://github.com/SameerAlSahab/ESP32-Deauther) | Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition. | `C Code` `CyberSecurity Tool` `Hardcore pentesting` |
+| [HydraESP[ProjectHydra]](https://github.com/SameerAlSahab/ESP32-Deauther) | Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition. | `C Code` `CyberSecurity Tool` `Hardcore pentesting` |
 | [META-Verse](https://github.com/SameerAlSahab/META-Verse) | A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration) | `Android` `Python` `Payload/Malware` `Educational` |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
@@ -103,10 +103,10 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [AstroROM S24 Ultra Port for Galaxy S20 5G](https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/) | Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
-| [AstroROM S25 Ultra for Galaxy S23 Ultra](https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/) | Galaxy S25 Ultra features ported to the Galaxy S23 Ultra. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
-| [AstroROM OneUI 8 Port for Galaxy S20 Series](https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/) | Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
-| [AstroROM OneUI 8 For S21 Series](https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/) | Galaxy S25 Ultra features ported to the Galaxy S21 Series. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
+| [AstroROM[ProjectAstro] S24 Ultra Port for Galaxy S20 5G](https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/) | Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
+| [AstroROM[ProjectAstro] S25 Ultra for Galaxy S23 Ultra](https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/) | Galaxy S25 Ultra features ported to the Galaxy S23 Ultra. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
+| [AstroROM[ProjectAstro] OneUI 8 Port for Galaxy S20 Series](https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/) | Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
+| [AstroROM[ProjectAstro] OneUI 8 For S21 Series](https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/) | Galaxy S25 Ultra features ported to the Galaxy S21 Series. | `Android` `Linux` `toolchain (clang)` `Reverse Engineering`|
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
@@ -114,7 +114,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [ProjectAstro [Script based ROM Builder]](https://github.com/SameerAlSahab/ProjectAstro) | Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices. | `Bash (Shell)` `smali` `so` |
+| [ProjectAstro[ProjectAstro] [Script based ROM Builder]](https://github.com/SameerAlSahab/ProjectAstro) | Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices. | `Bash (Shell)` `smali` `so` |
 | [AppsPorter](https://github.com/SameerAlSahab/AppsPorter) | Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more. | `Bash (Shell)` `Android` `Automation` |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
@@ -133,7 +133,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 | Project | Description | Tech |
 |:---|:---|:---|
-| [EWUPortalApp](https://github.com/SameerAlSahab/East-West-University-Portal-App) | An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design. | `Kotlin` `Supabase` `Android` `Material You` |
+| [EWUPortalApp[EWU Space]](https://github.com/SameerAlSahab/East-West-University-Portal-App) | An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode (which blocks apps and games), an on-device watermark-free document scanner with OCR, and full offline support with Material You design. | `Kotlin` `Supabase` `Android` `Material You` |
 
 *And more (not listed here)*
 
