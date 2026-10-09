@@ -86,7 +86,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 ## Projects🛠️
 
-#### Cybersecurity, Networks and Microcontrollers
+## Cybersecurity, Networks and Microcontrollers
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -102,7 +102,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   </tr>
 </table>
 
-#### Android, AOSP & Samsung ROMs [200K+ users worldwide]
+## Android, AOSP & Samsung ROMs [200K+ users worldwide]
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -140,7 +140,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   </tr>
 </table>
 
-#### Automation & System Utilities
+## Automation & System Utilities
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -154,7 +154,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   </tr>
 </table>
 
-#### Side Projects & Tools
+## Side Projects & Tools
 <table border="0">
   <tr>
     <td width="50%" valign="top">
