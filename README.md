@@ -15,7 +15,7 @@
 Nice to meet you. I'm **Sameer Al Sahab** (/saˈmiɾ al saˈhab/) — a Computer Science undergraduate at **East West University, Bangladesh**. Yes, another CSE student. No, I don't believe installing Arch Linux automatically makes someone a better developer. *(Although... btw.)*
 
 <details>
-<summary><b>Click to read more about my philosophy</b></summary>
+<summary><b>philosophy.md // Click to read more about my philosophy</b></summary>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
 
@@ -46,6 +46,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 <p>
   <a href="https://github.com/SameerAlSahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.sameeralsahab.me"><img src="https://img.shields.io/badge/Website-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="mailto:sameeralsahab@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
   <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
   <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -88,6 +89,23 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   />
 </p>
 
+
+<details>
+<summary><b>whoami</b></summary>
+
+```text
+   \  ___  /     SameerAlSahab@github
+   .-'   '-.     ────────────────────
+  /  o   o  \    Name: Sameer Al Sahab
+ |           |   Kernel: 7.2.2-1
+ |___________|   Birth Date: 22 May 2006
+  |  |   |  |    Body Count: 0
+  |__|   |__|    Uptime: 1.5y
+                 
+```
+
+</details>
+
 ## Projects🛠️
 
 ## Cybersecurity, Networks and Microcontrollers
@@ -103,7 +121,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/META-Verse">META-Verse</a></td>
-<td>A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from victim's phone. (Showcase Educational demonstration)</td>
+<td>A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from false victim's phone. (Showcase Educational demonstration)</td>
 </tr>
 </table>
 
@@ -196,7 +214,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <tr><th align="left">Project</th><th align="left">Description</th></tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp</a></td>
-<td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
+<td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty names, section, seats and email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
 </tr>
 </table>
 
