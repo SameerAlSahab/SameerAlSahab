@@ -69,7 +69,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 
 <p align="center">
-<img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=deep-space&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0&show_profile=1&show_top_percent=1&contrib_stars=1" />
+<a href="https://www.githubstats.tech"><img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=kanagawa&size=small&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0&show_profile=1&show_top_percent=1&contrib_stars=1" /></a>
 </p>
 
 
