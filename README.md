@@ -65,7 +65,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 <h2>Analytics ⚙️</h2>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&label=Profile+views&color=ff4500&style=flat-square" alt="SameerAlSahab profile views" />
 </p>
 
 
@@ -89,7 +89,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   />
 </p>
 
-
+<h2>NeoFetch Terminal</h2>
 <details>
 <summary><b>whoami</b></summary>
 
