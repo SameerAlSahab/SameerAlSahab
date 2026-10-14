@@ -27,6 +27,20 @@ I believe good software should be **useful, reliable, and open**. Not software t
 
 </details>
 
+<details>
+<summary><b>whoami</b></summary>
+
+```text
+               /\                 SameerAlSahab@github
+      /\      /  \      /\        ────────────────────
+     /  \    /    \    /  \       Name: Sameer Al Sahab
+    /    \  /  /\  \  /    \      Kernel: 7.2.2-1
+   /  /\  \/  /  \  \/  /\  \     Birth Date: 22 May 2006
+  /  /  \    /    \    /  \  \    Body Count: 0
+ /__/____\__/______\__/____\__\   Uptime: 1.5y
+```
+
+</details>
 Open source is where I spend most of my time. I build Android tools, firmware projects, Linux utilities, and automation scripts because sharing knowledge is more meaningful than keeping it locked away.
 
 
@@ -89,22 +103,8 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   />
 </p>
 
-<h2>NeoFetch Terminal</h2>
-<details>
-<summary><b>whoami</b></summary>
 
-```text
-   \  ___  /     SameerAlSahab@github
-   .-'   '-.     ────────────────────
-  /  o   o  \    Name: Sameer Al Sahab
- |           |   Kernel: 7.2.2-1
- |___________|   Birth Date: 22 May 2006
-  |  |   |  |    Body Count: 0
-  |__|   |__|    Uptime: 1.5y
-                 
-```
 
-</details>
 
 ## Projects🛠️
 
