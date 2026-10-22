@@ -192,6 +192,11 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <td><code>OpenCore</code> <code>macOS</code> <code>ACPI</code></td>
 </tr>
 <tr>
+<td><a href="https://github.com/SameerAlSahab/Hackintosh-Nvidia-RTX">The weird Mac (Windows PC)</a></td>
+<td>Full stable MacOS (Sequioa to Tahoe) with everything working on a fully unsupported (AMD Ryzen CPU + NVIDIA RTX GPU [MAC HATES THEM]) with the performance similar to Mac M2 or M3 in most cases (Perfect for me as I can make iOS apps with zero dollar budget).</td>
+<td><code>OpenCore</code> <code>macOS</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
 <td><a href="https://github.com/SameerAlSahab/YTMusicReadme">YTMusicReadme</a></td>
 <td>GitHub readme music widget with album art, artist, and playing animations. Clicking it redirects to the music link. Make yours from <a href="https://ytmusicreadme.vercel.app/">ytmusicreadme.vercel.app</a>.</td>
 <td><code>Vercel</code> <code>API</code> <code>Widgets</code></td>
@@ -205,7 +210,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
 
-## 🎓 Student Tools and Android Apps
+## 🎓 Student Tools and Android Apps (500+ Students lovi'n this)!
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
