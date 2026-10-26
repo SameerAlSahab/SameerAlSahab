@@ -12,9 +12,6 @@
       height="165" />
   </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF1493&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer+%E2%9A%A1;Hardware+Security+%26+Reverse+Engineering+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+to+my+mad+world%21+%F0%9F%92%8E" alt="Typing animation" />
-</p>
 
 ## Hey there 👋
 
@@ -135,7 +132,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 ## Android, AOSP & Samsung ROMs [⚡200K+ users worldwide]
 
@@ -166,7 +163,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 ## Automation & System Utilities
 
@@ -187,7 +184,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 ## Side Projects & Tools
 
@@ -218,7 +215,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 ## 🎓 Student Tools and Android Apps (500+ Students lovi'n this)!
 
@@ -248,3 +245,4 @@ That was a little bit about myself. Btw I do a lot more stuffs in my own world.
 ## Now Playing
 [![Now Playing](https://ytmusicreadme.vercel.app/api/widget?url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D-eGM0IJc70Y)](https://music.youtube.com/watch?v=-eGM0IJc70Y)
 *Make yours from my [YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme)*
+
