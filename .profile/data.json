@@ -1,7 +1,7 @@
 {
- "key": "143625a9",
+ "key": "f3695bf7",
  "stars": 428,
- "contributions": 583,
+ "contributions": 586,
  "repos": 53,
  "followers": 75,
  "languages": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 12,
     "day": 26,
     "today": true
    },
@@ -151,7 +151,7 @@
    "url": "https://github.com/alibaba/open-code-review",
    "text": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
    "fork": false,
-   "stars": 48328,
+   "stars": 48350,
    "language": "Go",
    "topics": [
     "agent",
