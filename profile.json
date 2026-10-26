@@ -17,11 +17,13 @@
     "wave",
     "buttons"
   ],
-  "hidden": [],
+  "hidden": [
+    "socials"
+  ],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "name": "Sameer",
+    "subtitle": "I build interfaces and useful tools",
     "typing": true,
     "avatarShape": "sunny",
     "chips": [
@@ -31,7 +33,7 @@
       },
       {
         "icon": "code",
-        "label": ""
+        "label": "OS and embedded"
       }
     ]
   },
@@ -44,11 +46,11 @@
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Mostly backend"
       },
       {
-        "icon": "palette",
-        "label": "Into Material Design"
+        "icon": "terminal",
+        "label": "Arch User (into terminal)"
       }
     ]
   },
@@ -131,14 +133,14 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://example.com",
+        "url": "https://sameeralsahab.me",
         "style": "filled"
       },
       {
         "icon": "book_2",
         "label": "All repositories",
         "url": "",
-        "style": "tonal"
+        "style": "filled"
       }
     ]
   }

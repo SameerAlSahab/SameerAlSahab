@@ -23,13 +23,13 @@ Nice to meet you. I'm **Sameer Al Sahab** (/saˈmiɾ al saˈhab/) — a Computer
 <details>
 <summary><b>philosophy.md // Click to read more about my philosophy</b></summary>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 I enjoy understanding how software works under the surface.
 
 I believe good software should be **useful, reliable, and open**. Not software that depends on endless workarounds, unnecessary complexity, or a hundred dependencies to accomplish something simple.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 </details>
 
@@ -94,6 +94,9 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </p>
 
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+
 <p align="center">
   <img
     src="https://img.shields.io/badge/East%20West%20University-CSE-7B2CBF?style=for-the-badge"
@@ -110,6 +113,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </p>
 
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 
 ## Projects🛠️
@@ -234,7 +238,12 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 ##
 That was a little bit about myself. Btw I do a lot more stuffs in my own world.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://sameeralsahab.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/SameerAlSahab?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
 
 ## Now Playing
 [![Now Playing](https://ytmusicreadme.vercel.app/api/widget?url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D-eGM0IJc70Y)](https://music.youtube.com/watch?v=-eGM0IJc70Y)
