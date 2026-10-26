@@ -2,26 +2,241 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m SameerAlSahab"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="40.938%" alt=""></picture><a href="https://t.me/apcports2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="40.938%" alt=""></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
-
-<a href="https://github.com/SameerAlSahab/Hydra-ESP"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hydra-esp-dark.svg"><img src="assets/project-hydra-esp-light.svg" width="49%" alt="Hydra-ESP"></picture></a>&nbsp;<a href="https://github.com/alibaba/open-code-review"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-open-code-review-dark.svg"><img src="assets/project-open-code-review-light.svg" width="49%" alt="open-code-review"></picture></a>
-
-<a href="https://github.com/SameerAlSahab/AppsPorter"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-appsporter-dark.svg"><img src="assets/project-appsporter-light.svg" width="49%" alt="AppsPorter"></picture></a>&nbsp;<a href="https://github.com/SameerAlSahab/ProjectArcadeX"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-projectarcadex-dark.svg"><img src="assets/project-projectarcadex-light.svg" width="49%" alt="ProjectArcadeX"></picture></a>
-
-<a href="https://github.com/SameerAlSahab/META-Verse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-meta-verse-dark.svg"><img src="assets/project-meta-verse-light.svg" width="49%" alt="META-Verse"></picture></a>&nbsp;<a href="https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-hp-elitebook-1030-g2-x360-hackingtosh-efi-dark.svg"><img src="assets/project-hp-elitebook-1030-g2-x360-hackingtosh-efi-light.svg" width="49%" alt="HP-Elitebook-1030-G2-X360-Hackingtosh-EFI"></picture></a>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
-
-<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/SameerAlSahab?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
-
-<a href="https://metawka.github.io/expressive-profile/?from=SameerAlSahab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
-
 </div>
+
+<p align="center">
+  <a href="https://www.sameeralsahab.me/">
+    <img
+      src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_footer.jpg"
+      alt="Sameer Al Sahab Footer"
+      height="165" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FF1493&center=true&vCenter=true&width=800&lines=Android+%2F+AOSP+ROM+Developer+%E2%9A%A1;Hardware+Security+%26+Reverse+Engineering+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Welcome+to+my+mad+world%21+%F0%9F%92%8E" alt="Typing animation" />
+</p>
+
+## Hey there 👋
+
+Nice to meet you. I'm **Sameer Al Sahab** (/saˈmiɾ al saˈhab/) — a Computer Science undergraduate at **East West University, Bangladesh**. Yes, another CSE student. No, I don't believe installing Arch Linux automatically makes someone a better developer. *(Although... btw.)*
+
+<details>
+<summary><b>philosophy.md // Click to read more about my philosophy</b></summary>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+
+I enjoy understanding how software works under the surface.
+
+I believe good software should be **useful, reliable, and open**. Not software that depends on endless workarounds, unnecessary complexity, or a hundred dependencies to accomplish something simple.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+
+</details>
+
+<details>
+<summary><b>whoami</b></summary>
+
+```text
+               /\                 SameerAlSahab@github
+      /\      /  \      /\        ────────────────────
+     /  \    /    \    /  \       Name: Sameer Al Sahab
+    /    \  /  /\  \  /    \      Kernel: 7.2.2-1
+   /  /\  \/  /  \  \/  /\  \     Birth Date: 22 May 2006
+  /  /  \    /    \    /  \  \    Body Count: 0
+ /__/____\__/______\__/____\__\   Uptime: 1.5y
+```
+
+</details>
+Open source is where I spend most of my time. I build Android tools, firmware projects, Linux utilities, and automation scripts because sharing knowledge is more meaningful than keeping it locked away.
+
+
+I'm still learning, still experimenting, and still making mistakes. That's part of the journey.
+
+**Think. Code. Reverse. Evolve.**
+
+
+
+
+<h2>Let's connect? 🤝</h2>
+<p align="center">
+  <s>Don't DM me, I am pretty busy.</s> Just kidding, you thought that! I'm always free. Feel free to reach out!
+</p>
+
+<div align="center">
+
+<p>
+  <a href="https://github.com/SameerAlSahab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.sameeralsahab.me"><img src="https://img.shields.io/badge/Website-FF4500?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:sameeralsahab@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://xdaforums.com/m/sameer-al-sahab.12550923/"><img src="https://img.shields.io/badge/XDA_Forums-F59100?style=for-the-badge&logo=xda-developers&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@sameeralsahab"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/astroromofficial">
+    <img src="https://img.shields.io/badge/ASTRO_DEVELOPERS-5865F2?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/IshiharaROM">
+    <img src="https://img.shields.io/badge/ISHI_DEVS_(DEPRECATED)-FF1493?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/apcports2">
+    <img src="https://img.shields.io/badge/ANDROID_PORTS_CLOUD-146C43?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
+</div>
+
+
+<h2>Analytics ⚙️</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&label=Profile+views&color=ff4500&style=flat-square" alt="SameerAlSahab profile views" />
+</p>
+
+
+<p align="center">
+<a href="https://www.githubstats.tech"><img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=sakura-blossom&size=default&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0&show_profile=1&show_top_percent=1&contrib_stars=1" /></a>
+</p>
+
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/East%20West%20University-CSE-7B2CBF?style=for-the-badge"
+    alt="East West University - CSE"
+  />
+  <img
+    src="https://img.shields.io/badge/Current%20Semester-2nd-FF6F00?style=for-the-badge"
+    alt="Current Semester: 2nd"
+  />
+  <img
+    src="https://img.shields.io/badge/Current%20CGPA-4.00%2F4.00-00C853?style=for-the-badge"
+    alt="Current CGPA: 4.00 out of 4.00"
+  />
+</p>
+
+
+
+
+## Projects🛠️
+
+## Cybersecurity, Networks and Microcontrollers
+
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="30%"><col width="70%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/ESP32-Deauther">HydraESP — ProjectHydra</a></td>
+<td>Flagship Wi-Fi and Bluetooth penetration testing firmware for ESP32. Built for security research and network analysis. My most underrated project, which deserves more recognition.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/META-Verse">META-Verse</a></td>
+<td>A modern Payload for newer Android devices (Tested in Galaxy S24 Ultra) that pulls out personal files like photos, contacts, mails, sms and more from false victim's phone. (Showcase Educational demonstration)</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+
+## Android, AOSP & Samsung ROMs [⚡200K+ users worldwide]
+
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/">AstroROM S24 Ultra Port for Galaxy S20 5G</a></td>
+<td>Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
+<td><a href="https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/">AstroROM S25 Ultra for Galaxy S23 Ultra</a></td>
+<td>Galaxy S25 Ultra features ported to the Galaxy S23 Ultra.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
+<td><a href="https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/">AstroROM OneUI 8 Port for Galaxy S20 Series</a></td>
+<td>Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
+<td><a href="https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/">AstroROM OneUI 8 For S21 Series</a></td>
+<td>Galaxy S25 Ultra features ported to the Galaxy S21 Series.</td>
+<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+
+## Automation & System Utilities
+
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/ProjectAstro">ProjectAstro [Script based ROM Builder]</a></td>
+<td>Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices.</td>
+<td><code>Bash (Shell)</code> <code>smali</code> <code>so</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/AppsPorter">AppsPorter</a></td>
+<td>Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more.</td>
+<td><code>Bash (Shell)</code> <code>Android</code> <code>Automation</code></td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+
+## Side Projects & Tools
+
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="22%"><col width="48%"><col width="30%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI">The poor student's Macbook</a></td>
+<td>Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019.</td>
+<td><code>OpenCore</code> <code>macOS</code> <code>ACPI</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/Hackintosh-Nvidia-RTX">The weird Mac (Windows PC)</a></td>
+<td>Full stable MacOS (Sequioa to Tahoe) with everything working on a fully unsupported (AMD Ryzen CPU + NVIDIA RTX GPU [MAC HATES THEM]) with the performance similar to Mac M2 or M3 in most cases (Perfect for me as I can make iOS apps with zero dollar budget).</td>
+<td><code>OpenCore</code> <code>macOS</code> <code>Reverse Engineering</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/YTMusicReadme">YTMusicReadme</a></td>
+<td>GitHub readme music widget with album art, artist, and playing animations. Clicking it redirects to the music link. Make yours from <a href="https://ytmusicreadme.vercel.app/">ytmusicreadme.vercel.app</a>.</td>
+<td><code>Vercel</code> <code>API</code> <code>Widgets</code></td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/DolbyAtmosForEveryone">DolbyAtmosForEveryone</a></td>
+<td>Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.</td>
+<td><code>Windows Drivers</code> <code>Reverse Engineering</code></td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=1&section=header"/>
+
+## 🎓 Student Tools and Android Apps (500+ Students lovi'n this)!
+
+<table width="820" cellpadding="10" cellspacing="0" border="1">
+<colgroup>
+<col width="30%"><col width="70%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th></tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp</a></td>
+<td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty names, section, seats and email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
+</tr>
+</table>
+
+*And more (not listed here)*
+
+##
+That was a little bit about myself. Btw I do a lot more stuffs in my own world.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=header"/>
+
+## Now Playing
+[![Now Playing](https://ytmusicreadme.vercel.app/api/widget?url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D-eGM0IJc70Y)](https://music.youtube.com/watch?v=-eGM0IJc70Y)
+*Make yours from my [YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme)*
+
