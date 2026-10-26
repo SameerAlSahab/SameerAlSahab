@@ -1,0 +1,719 @@
+{
+ "key": "6f3b5d4e",
+ "stars": 428,
+ "contributions": 582,
+ "repos": 53,
+ "followers": 75,
+ "languages": [
+  [
+   "C",
+   162612917
+  ],
+  [
+   "Smali",
+   103572680
+  ],
+  [
+   "C++",
+   12380664
+  ],
+  [
+   "Python",
+   889767
+  ],
+  [
+   "Uno",
+   869456
+  ],
+  [
+   "HTML",
+   238845
+  ],
+  [
+   "Linker Script",
+   180547
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 7,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 26,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 8,
+  "longest": 14
+ },
+ "pins": [
+  {
+   "name": "Hydra-ESP",
+   "url": "https://github.com/SameerAlSahab/Hydra-ESP",
+   "text": "HydraESP - A Wi-Fi and BT testing firmware for ESP32",
+   "fork": false,
+   "stars": 235,
+   "language": "C",
+   "topics": [
+    "deauther",
+    "esp32-deauther",
+    "esp32",
+    "hydra-esp"
+   ]
+  },
+  {
+   "name": "open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "text": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "fork": false,
+   "stars": 48321,
+   "language": "Go",
+   "topics": [
+    "agent",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context",
+    "agent-skills"
+   ]
+  },
+  {
+   "name": "AppsPorter",
+   "url": "https://github.com/SameerAlSahab/AppsPorter",
+   "text": "Tool for porting OEM specific apps on every devices (Manual + AI Agents)",
+   "fork": false,
+   "stars": 72,
+   "language": "Smali",
+   "topics": [
+    "oem",
+    "port",
+    "oem-apps-port"
+   ]
+  },
+  {
+   "name": "ProjectArcadeX",
+   "url": "https://github.com/SameerAlSahab/ProjectArcadeX",
+   "text": "Script based rom patcher which downloads firmware , applies ota , patches and create a flashable Samsung ROM zip for all supported devices.",
+   "fork": false,
+   "stars": 45,
+   "language": "Shell",
+   "topics": [
+    "astrorom"
+   ]
+  },
+  {
+   "name": "META-Verse",
+   "url": "https://github.com/SameerAlSahab/META-Verse",
+   "text": "A modern Payload for newer Android devices !! (educational purposes only)",
+   "fork": false,
+   "stars": 16,
+   "language": "Smali",
+   "topics": [
+    "androrat",
+    "payload",
+    "metavas"
+   ]
+  },
+  {
+   "name": "HP-Elitebook-1030-G2-X360-Hackingtosh-EFI",
+   "url": "https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI",
+   "text": "MacOS Tahoe for HP Elitebook 1030 G2 X360",
+   "fork": false,
+   "stars": 5,
+   "language": null,
+   "topics": [
+    "hackingtosh",
+    "hp",
+    "elitebook1030g2"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "Hydra-ESP",
+   "url": "https://github.com/SameerAlSahab/Hydra-ESP",
+   "text": "HydraESP - A Wi-Fi and BT testing firmware for ESP32",
+   "fork": false,
+   "stars": 235,
+   "language": "C",
+   "topics": [
+    "deauther",
+    "esp32-deauther",
+    "esp32",
+    "hydra-esp"
+   ]
+  },
+  {
+   "name": "AppsPorter",
+   "url": "https://github.com/SameerAlSahab/AppsPorter",
+   "text": "Tool for porting OEM specific apps on every devices (Manual + AI Agents)",
+   "fork": false,
+   "stars": 72,
+   "language": "Smali",
+   "topics": [
+    "oem",
+    "port",
+    "oem-apps-port"
+   ]
+  },
+  {
+   "name": "ProjectArcadeX",
+   "url": "https://github.com/SameerAlSahab/ProjectArcadeX",
+   "text": "Script based rom patcher which downloads firmware , applies ota , patches and create a flashable Samsung ROM zip for all supported devices.",
+   "fork": false,
+   "stars": 45,
+   "language": "Shell",
+   "topics": [
+    "astrorom"
+   ]
+  },
+  {
+   "name": "InsaneGitStatsGen",
+   "url": "https://github.com/SameerAlSahab/InsaneGitStatsGen",
+   "text": "Great looking github stats which will make huge impact on your git readme.",
+   "fork": false,
+   "stars": 18,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "META-Verse",
+   "url": "https://github.com/SameerAlSahab/META-Verse",
+   "text": "A modern Payload for newer Android devices !! (educational purposes only)",
+   "fork": false,
+   "stars": 16,
+   "language": "Smali",
+   "topics": [
+    "androrat",
+    "payload",
+    "metavas"
+   ]
+  },
+  {
+   "name": "build-tools",
+   "url": "https://github.com/SameerAlSahab/build-tools",
+   "text": "",
+   "fork": false,
+   "stars": 13,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "OPWidgetPlus",
+   "url": "https://github.com/SameerAlSahab/OPWidgetPlus",
+   "text": "OnePlus OG Widget with tons of mods for any Android device 6.0++",
+   "fork": false,
+   "stars": 5,
+   "language": "Smali",
+   "topics": []
+  },
+  {
+   "name": "HP-Elitebook-1030-G2-X360-Hackingtosh-EFI",
+   "url": "https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI",
+   "text": "MacOS Tahoe for HP Elitebook 1030 G2 X360",
+   "fork": false,
+   "stars": 5,
+   "language": null,
+   "topics": [
+    "hackingtosh",
+    "hp",
+    "elitebook1030g2"
+   ]
+  },
+  {
+   "name": "smali_patch",
+   "url": "https://github.com/SameerAlSahab/smali_patch",
+   "text": "Easy .smali file patcher without need of lines or hunks match. Easy to maintain for Android ROM Projects",
+   "fork": false,
+   "stars": 4,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "SameerAlSahab",
+   "url": "https://github.com/SameerAlSahab/SameerAlSahab",
+   "text": "Hello World! Its me",
+   "fork": false,
+   "stars": 3,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "YTMusicReadme",
+   "url": "https://github.com/SameerAlSahab/YTMusicReadme",
+   "text": "YT Music Player with album art, title, artist and playing animations inside github readme.",
+   "fork": false,
+   "stars": 2,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "DolbyAtmosForEveryone",
+   "url": "https://github.com/SameerAlSahab/DolbyAtmosForEveryone",
+   "text": "Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.",
+   "fork": false,
+   "stars": 2,
+   "language": "PowerShell",
+   "topics": []
+  },
+  {
+   "name": "SamsungCameraOSP",
+   "url": "https://github.com/SameerAlSahab/SamsungCameraOSP",
+   "text": "Samsung Camera alternative for AOSP Custom ROMs",
+   "fork": false,
+   "stars": 2,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "CheckL0ck",
+   "url": "https://github.com/SameerAlSahab/CheckL0ck",
+   "text": "FaceID/TouchID for devices with checkm8 based jailbreaks",
+   "fork": true,
+   "stars": 2,
+   "language": "Objective-C",
+   "topics": []
+  },
+  {
+   "name": "EmojixelLab",
+   "url": "https://github.com/SameerAlSahab/EmojixelLab",
+   "text": "Convert any image into a detailed emoji mosaic using real emojis and color matching. Supports transparent PNG and symbol art.",
+   "fork": false,
+   "stars": 2,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "NVIDIA-RTX-Linux-Fixes",
+   "url": "https://github.com/SameerAlSahab/NVIDIA-RTX-Linux-Fixes",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "EastWestUniversity-Portal",
+   "url": "https://github.com/SameerAlSahab/EastWestUniversity-Portal",
+   "text": "Unofficial portal app with many useful features for EWU students.",
+   "fork": false,
+   "stars": 1,
+   "language": "Smali",
+   "topics": []
+  },
+  {
+   "name": "IGPU-AutomodPlus",
+   "url": "https://github.com/SameerAlSahab/IGPU-AutomodPlus",
+   "text": "IGPU Automod with driver spoofing to get the UHD P630 on every device (and shows as UHD P630 when installed) - ment for 7-10th gen drivers",
+   "fork": true,
+   "stars": 1,
+   "language": "PowerShell",
+   "topics": []
+  },
+  {
+   "name": "Learning-CSE-at-EWU",
+   "url": "https://github.com/SameerAlSahab/Learning-CSE-at-EWU",
+   "text": "What I have studied in CSE related to programming @ EWU will try to record here; and also other course materials.",
+   "fork": true,
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "c-programming-practice",
+   "url": "https://github.com/SameerAlSahab/c-programming-practice",
+   "text": "A collection of my C programming practice, from basic concepts to advanced topics during my undergraduate CSE journey.",
+   "fork": false,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "kernel_samsung_sm8550-common",
+   "url": "https://github.com/SameerAlSahab/kernel_samsung_sm8550-common",
+   "text": "",
+   "fork": true,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "go-pixeldrain",
+   "url": "https://github.com/SameerAlSahab/go-pixeldrain",
+   "text": "Share files with decentralized cloud storage.",
+   "fork": true,
+   "stars": 1,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "e2fstool",
+   "url": "https://github.com/SameerAlSahab/e2fstool",
+   "text": "(Android) ext4 image extractor written in C (with support of windows)",
+   "fork": true,
+   "stars": 1,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "OPCameraPlus",
+   "url": "https://github.com/SameerAlSahab/OPCameraPlus",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "claude-bangla-writing-skills",
+   "url": "https://github.com/SameerAlSahab/claude-bangla-writing-skills",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "HackiGalaxy",
+   "url": "https://github.com/SameerAlSahab/HackiGalaxy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "HyperOSGalleryPlus",
+   "url": "https://github.com/SameerAlSahab/HyperOSGalleryPlus",
+   "text": "HyperOS Gallery + AI Editor + Bokeh effects for all devices.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "apkmirror-bash",
+   "url": "https://github.com/SameerAlSahab/apkmirror-bash",
+   "text": "Bash scrapper for apkmirror. Download latest apps from terminal in no time.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "TrueIslam",
+   "url": "https://github.com/SameerAlSahab/TrueIslam",
+   "text": "WIP",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ios-sweet",
+   "url": "https://github.com/SameerAlSahab/ios-sweet",
+   "text": "iOS 16 userland + XNU on Redmi Note 10 Pro (sweet, SM7150)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "nvidia-macos-driver",
+   "url": "https://github.com/SameerAlSahab/nvidia-macos-driver",
+   "text": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "DTN3",
+   "url": "https://github.com/SameerAlSahab/DTN3",
+   "text": "WIP",
+   "fork": false,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "DTN2",
+   "url": "https://github.com/SameerAlSahab/DTN2",
+   "text": "DTN Reference Implementation",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "edge-assisted-privacy-iot-aggregation",
+   "url": "https://github.com/SameerAlSahab/edge-assisted-privacy-iot-aggregation",
+   "text": "WIP - Work in Progress",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "MySmoothArch",
+   "url": "https://github.com/SameerAlSahab/MySmoothArch",
+   "text": "Make your Arch smooth!",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Hackintosh-Nvidia-RTX",
+   "url": "https://github.com/SameerAlSahab/Hackintosh-Nvidia-RTX",
+   "text": "EFI for AMD Ryzen CPU + Nvidia RTX GPU to run MacOS",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "UndergradLog",
+   "url": "https://github.com/SameerAlSahab/UndergradLog",
+   "text": "Tracking my undergrad journey, DSA, systems programming, research notes, LaTeX, and English. No LLM here ;)",
+   "fork": false,
+   "stars": 0,
+   "language": "TeX",
+   "topics": []
+  },
+  {
+   "name": "are",
+   "url": "https://github.com/SameerAlSahab/are",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "GRE-GitHub-Readme-Enhanced",
+   "url": "https://github.com/SameerAlSahab/GRE-GitHub-Readme-Enhanced",
+   "text": "Claude skill that builds profile and project GitHub READMEs: live badges, stats cards, typing animations, repo, license/DMCA drafts, and a linter that catches AI-sounding text.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "claude-code",
+    "claude-skills",
+    "github-readme",
+    "readme-generator"
+   ]
+  },
+  {
+   "name": "n0proxy-android-traffic-sniffer",
+   "url": "https://github.com/SameerAlSahab/n0proxy-android-traffic-sniffer",
+   "text": "No-Proxy Traffic Analyzer: Inspect network traffic from any Android app without configuring Wi-Fi proxies or installing CA certificates. Hooks into the native networking layer to capture raw TCP payloads in real-time.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AnyPS5",
+   "url": "https://github.com/SameerAlSahab/AnyPS5",
+   "text": "Tool for automatic PS5 executables porting to Linux and Windows",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "SomaPelvis",
+   "url": "https://github.com/SameerAlSahab/SomaPelvis",
+   "text": "Open Source therapeutic research and biofeedback tools for Chronic Pelvic Pain Syndrome (CPPS) and hypertonic pelvic floor relaxation.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Learn-CSharp",
+   "url": "https://github.com/SameerAlSahab/Learn-CSharp",
+   "text": "This repo contains fundamentals of C Sharp and some core examples",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "blue-fish",
+   "url": "https://github.com/SameerAlSahab/blue-fish",
+   "text": "?blue-fish (idk what it is???)",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "open-code-review",
+   "url": "https://github.com/SameerAlSahab/open-code-review",
+   "text": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "StudentPCPayloads",
+   "url": "https://github.com/SameerAlSahab/StudentPCPayloads",
+   "text": "Safe payloads for Windows10 and 11 for school, college and University Lab PCs with student account",
+   "fork": false,
+   "stars": 0,
+   "language": "Batchfile",
+   "topics": []
+  },
+  {
+   "name": "CSE106-Discrete-Mathematics",
+   "url": "https://github.com/SameerAlSahab/CSE106-Discrete-Mathematics",
+   "text": "Learn Discrete Mathematics in the easiest way possible!!",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "SameerAlSahab.github.io",
+   "url": "https://github.com/SameerAlSahab/SameerAlSahab.github.io",
+   "text": "config files for my github profile and portfolio",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "WiFi-Analyzer-Plus",
+   "url": "https://github.com/SameerAlSahab/WiFi-Analyzer-Plus",
+   "text": "clean and modern wifi analyzer app",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "AppleALC",
+   "url": "https://github.com/SameerAlSahab/AppleALC",
+   "text": "Native macOS HD audio for not officially supported codecs",
+   "fork": true,
+   "stars": 0,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "11Cam15",
+   "url": "https://github.com/SameerAlSahab/11Cam15",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Logos",
+   "topics": []
+  },
+  {
+   "name": "quran-api",
+   "url": "https://github.com/SameerAlSahab/quran-api",
+   "text": "Al-Quran API - Multilingual Quran API with Translations",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "galaxy-fetch",
+   "url": "https://github.com/SameerAlSahab/galaxy-fetch",
+   "text": "TypeScript implementation of a streaming downloader, decryptor and extractor of Samsung firmware.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
