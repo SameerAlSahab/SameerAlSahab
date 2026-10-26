@@ -4,15 +4,6 @@
 
 </div>
 
-<p align="center">
-  <a href="https://www.sameeralsahab.me/">
-    <img
-      src="https://github.com/SameerAlSahab/SameerAlSahab/raw/2026-undergraduate/readme-res/git_footer.jpg"
-      alt="Sameer Al Sahab Footer"
-      height="165" />
-  </a>
-</p>
-
 ## Hey there 👋
 
 Nice to meet you. I'm **Sameer Al Sahab** (/saˈmiɾ al saˈhab/) — a Computer Science undergraduate at **East West University, Bangladesh**. Yes, another CSE student. No, I don't believe installing Arch Linux automatically makes someone a better developer. *(Although... btw.)*
@@ -132,7 +123,6 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 ## Android, AOSP & Samsung ROMs [⚡200K+ users worldwide]
 
@@ -163,7 +153,6 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 ## Automation & System Utilities
 
@@ -184,7 +173,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
 
 ## Side Projects & Tools
 
@@ -215,7 +204,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 </table>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
 
 ## 🎓 Student Tools and Android Apps (500+ Students lovi'n this)!
 
