@@ -202,6 +202,11 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <td>Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.</td>
 <td><code>Windows Drivers</code> <code>Reverse Engineering</code></td>
 </tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/AwesomeAWidgets">AwesomeAndroWidgets</a></td>
+<td>NothingPhone and OxygenOS all 26 special interactive Widgets ported for every devices to work in any launchers with custom weather and Settings controller app and logics of PhoneAway (distractions limit), snake game and quotes.</td>
+<td><code>Porting/Customization</code> <code>Reverse Engineering</code></td>
+</tr>
 </table>
 
 
