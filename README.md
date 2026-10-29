@@ -154,7 +154,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </table>
 
 
-## Automation & System Utilities
+## Automation 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
@@ -171,11 +171,15 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <td>Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more.</td>
 <td><code>Bash (Shell)</code> <code>Android</code> <code>Automation</code></td>
 </tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/DSEStockAI">DSEStockAI</a></td>
+<td>Uses AI agents to forecast DSE stock movements, suggest profitable buy/sell decisions, and display live DSE metrics via an intuitive interface. <strong>Trading carries risk.</strong> Live at https://dseai.vercel.app/</td>
+</tr>
 </table>
 
 
 
-## Side Projects & Tools
+## Side Projects 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
@@ -202,16 +206,11 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <td>Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.</td>
 <td><code>Windows Drivers</code> <code>Reverse Engineering</code></td>
 </tr>
-<tr>
-<td><a href="https://github.com/SameerAlSahab/AwesomeAWidgets">AwesomeAndroWidgets</a></td>
-<td>NothingPhone and OxygenOS all 26 special interactive Widgets ported for every devices to work in any launchers with custom weather and Settings controller app and logics of PhoneAway (distractions limit), snake game and quotes.</td>
-<td><code>Porting/Customization</code> <code>Reverse Engineering</code></td>
-</tr>
 </table>
 
 
 
-## 🎓 Student Tools and Android Apps (500+ Students lovi'n this)!
+## Apps 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
@@ -219,8 +218,13 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </colgroup>
 <tr><th align="left">Project</th><th align="left">Description</th></tr>
 <tr>
-<td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp</a></td>
+<td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp (500+ Students lovi'n this)!</a></td>
 <td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty names, section, seats and email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/SameerAlSahab/AwesomeAWidgets">AwesomeAndroWidgets</a></td>
+<td>NothingPhone and OxygenOS all 26 special interactive Widgets ported for every devices to work in any launchers with custom weather and Settings controller app and logics of PhoneAway (distractions limit), snake game and quotes.</td>
+<td><code>Porting/Customization</code> <code>Reverse Engineering</code></td>
 </tr>
 </table>
 
