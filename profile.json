@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "SameerAlSahab",
-  "seed": "#F8DC38",
+  "seed": "#B3D136",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -18,22 +18,22 @@
     "buttons"
   ],
   "hidden": [
-    "socials"
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats"
   ],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "Sameer",
-    "subtitle": "I build interfaces and useful tools",
+    "name": "Sameer Al Sahab",
+    "subtitle": "I build interfaces and useful tools.",
     "typing": true,
-    "avatarShape": "sunny",
+    "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
         "label": "Dhaka, Bangladesh, Earth"
-      },
-      {
-        "icon": "code",
-        "label": "OS and embedded"
       }
     ]
   },
@@ -46,11 +46,11 @@
       },
       {
         "icon": "code",
-        "label": "Mostly backend"
+        "label": "Mostly frontend"
       },
       {
-        "icon": "terminal",
-        "label": "Arch User (into terminal)"
+        "icon": "palette",
+        "label": "Into Material Design"
       }
     ]
   },
@@ -121,7 +121,15 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/apcports2"
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
       }
     ],
     "variant": "chip",
@@ -133,14 +141,14 @@
       {
         "icon": "language",
         "label": "My website",
-        "url": "https://sameeralsahab.me",
+        "url": "https://example.com",
         "style": "filled"
       },
       {
         "icon": "book_2",
         "label": "All repositories",
         "url": "",
-        "style": "filled"
+        "style": "tonal"
       }
     ]
   }
