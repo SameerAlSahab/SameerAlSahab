@@ -92,22 +92,6 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/East%20West%20University-CSE-7B2CBF?style=for-the-badge"
-    alt="East West University - CSE"
-  />
-  <img
-    src="https://img.shields.io/badge/Current%20Semester-2nd-FF6F00?style=for-the-badge"
-    alt="Current Semester: 2nd"
-  />
-  <img
-    src="https://img.shields.io/badge/Current%20CGPA-4.00%2F4.00-00C853?style=for-the-badge"
-    alt="Current CGPA: 4.00 out of 4.00"
-  />
-</p>
-
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 
@@ -165,22 +149,20 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
-<col width="22%"><col width="48%"><col width="30%">
+<col width="30%"><col width="70%">
 </colgroup>
-<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr><th align="left">Project</th><th align="left">Description</th></tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/ProjectAstro">ProjectAstro [Script based ROM Builder]</a></td>
 <td>Script-based ROM patcher. Downloads firmware, applies OTA, patches, and builds a flashable zip for supported devices.</td>
-<td><code>Bash (Shell)</code> <code>smali</code> <code>so</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/AppsPorter">AppsPorter</a></td>
-<td>Tool for porting OEM specific apps on every devices. eg. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI & more.</td>
-<td><code>Bash (Shell)</code> <code>Android</code> <code>Automation</code></td>
+<td>Tool for porting OEM-specific apps to every device, e.g. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI &amp; more.</td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/DSEStockAI">DSEStockAI</a></td>
-<td>Uses AI agents to forecast DSE stock movements, suggest profitable buy/sell decisions, and display live DSE metrics via an intuitive interface. <strong>Trading carries risk.</strong> Live at https://dseai.vercel.app/</td>
+<td>Uses AI agents to forecast DSE stock movements, suggest profitable buy/sell decisions, and display live DSE metrics via an intuitive interface. <strong>Trading carries risk.</strong> Live at <a href="https://dseai.vercel.app/">dseai.vercel.app</a>.</td>
 </tr>
 </table>
 
@@ -200,7 +182,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/Hackintosh-Nvidia-RTX">The weird Mac (Windows PC)</a></td>
-<td>Full stable MacOS (Sequioa to Tahoe) with everything working on a fully unsupported (AMD Ryzen CPU + NVIDIA RTX GPU [MAC HATES THEM]) with the performance similar to Mac M2 or M3 in most cases (Perfect for me as I can make iOS apps with zero dollar budget).</td>
+<td>Full stable MacOS (Sequoia to Tahoe) with everything working on a fully unsupported (AMD Ryzen CPU + NVIDIA RTX GPU [MAC HATES THEM]) with the performance similar to Mac M2 or M3 in most cases (Perfect for me as I can make iOS apps with zero dollar budget).</td>
 <td><code>OpenCore</code> <code>macOS</code> <code>Reverse Engineering</code></td>
 </tr>
 <tr>
@@ -221,16 +203,17 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
-<col width="30%"><col width="70%">
+<col width="22%"><col width="48%"><col width="30%">
 </colgroup>
-<tr><th align="left">Project</th><th align="left">Description</th></tr>
+<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp (500+ Students lovi'n this)!</a></td>
 <td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty names, section, seats and email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
+<td><code>Android</code> <code>Material You</code> <code>OCR</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/AwesomeAWidgets">AwesomeAndroWidgets</a></td>
-<td>NothingPhone and OxygenOS all 26 special interactive Widgets ported for every devices to work in any launchers with custom weather and Settings controller app and logics of PhoneAway (distractions limit), snake game and quotes.</td>
+<td>All 26 special interactive widgets from NothingPhone and OxygenOS, ported to work on every device in any launcher, with a custom weather and settings controller app, PhoneAway logic (distraction limit), a snake game, and quotes.</td>
 <td><code>Porting/Customization</code> <code>Reverse Engineering</code></td>
 </tr>
 </table>
@@ -238,7 +221,7 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 *And more (not listed here)*
 
 ##
-That was a little bit about myself. Btw I do a lot more stuffs in my own world.
+That was a little bit about myself. Btw I do a lot more stuff in my own world.
 
 
 
