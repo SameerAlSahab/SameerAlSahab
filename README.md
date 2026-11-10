@@ -119,33 +119,29 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
-<col width="22%"><col width="48%"><col width="30%">
+<col width="22%"><col width="78%">
 </colgroup>
-<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr><th align="left">Project</th><th align="left">Description</th></tr>
 <tr>
 <td><a href="https://xdaforums.com/t/rom-oneui-7-s24u-port-ai-astrorom-for-galaxy-s20-5g-snapdragon.4673866/">AstroROM S24 Ultra Port for Galaxy S20 5G</a></td>
 <td>Full OneUI 7 port with Galaxy AI features for the Galaxy S20 5G Snapdragon variant.</td>
-<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
 </tr>
 <tr>
 <td><a href="https://xdaforums.com/t/rom-16-s918b-astrorom-2-0-5-for-galaxy-s23-ultra.4773024/">AstroROM S25 Ultra for Galaxy S23 Ultra</a></td>
 <td>Galaxy S25 Ultra features ported to the Galaxy S23 Ultra.</td>
-<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
 </tr>
 <tr>
 <td><a href="https://xdaforums.com/t/astro-os-rom-oneui-8-0-galaxy-s20-series-snapdragon-s23-ultra-port-version-4-0-0-ai-port-camera-enhancements-optimize-stable.4786250/">AstroROM OneUI 8 Port for Galaxy S20 Series</a></td>
 <td>Full OneUI 8 port with Galaxy AI features for the Galaxy S20 series.</td>
-<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
 </tr>
 <tr>
 <td><a href="https://xdaforums.com/t/rom-16-oneui8-snapdragon-astrorom-2-1-spring-for-galaxy-s21-series.4801407/">AstroROM OneUI 8 For S21 Series</a></td>
 <td>Galaxy S25 Ultra features ported to the Galaxy S21 Series.</td>
-<td><code>Android</code> <code>Linux</code> <code>toolchain (clang)</code> <code>Reverse Engineering</code></td>
 </tr>
 </table>
 
 
-## Automation 
+## Automation 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
@@ -160,61 +156,51 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 <td><a href="https://github.com/SameerAlSahab/AppsPorter">AppsPorter</a></td>
 <td>Tool for porting OEM-specific apps to every device, e.g. Samsung, OnePlus, MIUI/HyperOS, Motorola, ZUI &amp; more.</td>
 </tr>
-<tr>
-<td><a href="https://github.com/SameerAlSahab/DSEStockAI">DSEStockAI</a></td>
-<td>Uses AI agents to forecast DSE stock movements, suggest profitable buy/sell decisions, and display live DSE metrics via an intuitive interface. <strong>Trading carries risk.</strong> Live at <a href="https://dseai.vercel.app/">dseai.vercel.app</a>.</td>
-</tr>
 </table>
 
 
 
-## Side Projects 
+## Side Projects 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
-<col width="22%"><col width="48%"><col width="30%">
+<col width="22%"><col width="78%">
 </colgroup>
-<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr><th align="left">Project</th><th align="left">Description</th></tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/HP-Elitebook-1030-G2-X360-Hackingtosh-EFI">The poor student's Macbook</a></td>
 <td>Full stable MacOS (Catalina to Tahoe) with everything working on a cheap HP Laptop with the performance similar to MacBook Air 2019.</td>
-<td><code>OpenCore</code> <code>macOS</code> <code>ACPI</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/Hackintosh-Nvidia-RTX">The weird Mac (Windows PC)</a></td>
 <td>Full stable MacOS (Sequoia to Tahoe) with everything working on a fully unsupported (AMD Ryzen CPU + NVIDIA RTX GPU [MAC HATES THEM]) with the performance similar to Mac M2 or M3 in most cases (Perfect for me as I can make iOS apps with zero dollar budget).</td>
-<td><code>OpenCore</code> <code>macOS</code> <code>Reverse Engineering</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/YTMusicReadme">YTMusicReadme</a></td>
 <td>GitHub readme music widget with album art, artist, and playing animations. Clicking it redirects to the music link. Make yours from <a href="https://ytmusicreadme.vercel.app/">ytmusicreadme.vercel.app</a>.</td>
-<td><code>Vercel</code> <code>API</code> <code>Widgets</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/DolbyAtmosForEveryone">DolbyAtmosForEveryone</a></td>
 <td>Dolby Atmos driver + Control App for PCs and laptops that don't officially ship with it.</td>
-<td><code>Windows Drivers</code> <code>Reverse Engineering</code></td>
 </tr>
 </table>
 
 
 
-## Apps 
+## Apps 
 
 <table width="820" cellpadding="10" cellspacing="0" border="1">
 <colgroup>
-<col width="22%"><col width="48%"><col width="30%">
+<col width="22%"><col width="78%">
 </colgroup>
-<tr><th align="left">Project</th><th align="left">Description</th><th align="left">Tech</th></tr>
+<tr><th align="left">Project</th><th align="left">Description</th></tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/East-West-University-Portal-App">EWUPortalApp (500+ Students lovi'n this)!</a></td>
 <td>An unofficial, all-in-one Android app for East West University students. Features smart class schedules with PDF export, local reminders, hidden faculty names, section, seats and email lookups, CGPA & scholarship calculators, an assignment cover generator, an exam focus mode, an on-device watermark-free document scanner with OCR, and full offline support with Material You design.</td>
-<td><code>Android</code> <code>Material You</code> <code>OCR</code></td>
 </tr>
 <tr>
 <td><a href="https://github.com/SameerAlSahab/AwesomeAWidgets">AwesomeAndroWidgets</a></td>
 <td>All 26 special interactive widgets from NothingPhone and OxygenOS, ported to work on every device in any launcher, with a custom weather and settings controller app, PhoneAway logic (distraction limit), a snake game, and quotes.</td>
-<td><code>Porting/Customization</code> <code>Reverse Engineering</code></td>
 </tr>
 </table>
 
@@ -233,3 +219,6 @@ That was a little bit about myself. Btw I do a lot more stuff in my own world.
 ## Now Playing
 [![Now Playing](https://ytmusicreadme.vercel.app/api/widget?url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D-eGM0IJc70Y)](https://music.youtube.com/watch?v=-eGM0IJc70Y)
 *Make yours from my [YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme)*
+
+
+remove the tech thrid col in everywhere and nothing else
