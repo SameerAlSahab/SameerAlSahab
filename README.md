@@ -89,10 +89,6 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
 </p>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
-
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 
 ## Projects🛠️
@@ -221,4 +217,4 @@ That was a little bit about myself. Btw I do a lot more stuff in my own world.
 *Make yours from my [YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme)*
 
 
-remove the tech thrid col in everywhere and nothing else
+[// TODO: I will add some new projects soooon!]
