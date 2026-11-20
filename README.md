@@ -83,6 +83,9 @@ I'm still learning, still experimenting, and still making mistakes. That's part 
   <img src="https://komarev.com/ghpvc/?username=SameerAlSahab&label=Profile+views&color=ff4500&style=flat-square" alt="SameerAlSahab profile views" />
 </p>
 
+[![SameerAlSahab on GitRanks: stars rank #79,660 · top 5%](https://gitranks.com/badge/user/SameerAlSahab/rank.svg)](https://gitranks.com/profile/SameerAlSahab)
+
+[![SameerAlSahab on GitRanks: stars rank #198 in Bangladesh · top 4%](https://gitranks.com/badge/user/SameerAlSahab/rank.svg?scope=country)](https://gitranks.com/profile/SameerAlSahab/country)
 
 <p align="center">
 <a href="https://www.githubstats.tech"><img alt="SameerAlSahab's GitHub Stats" src="https://www.githubstats.tech/api/card?username=SameerAlSahab&theme=sakura-blossom&size=default&show_name=1&show_grade=1&show_stars=1&show_commits=1&show_prs=0&show_issues=0&show_contributed=1&show_year=0&show_top_repo=0&show_profile=1&show_top_percent=1&contrib_stars=1" /></a>
