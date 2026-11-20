@@ -216,12 +216,5 @@ That was a little bit about myself. Btw I do a lot more stuff in my own world.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-<a href="https://sameeralsahab.me"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/SameerAlSahab?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-
-## Now Playing
-[![Now Playing](https://ytmusicreadme.vercel.app/api/widget?url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D-eGM0IJc70Y)](https://music.youtube.com/watch?v=-eGM0IJc70Y)
-*Make yours from my [YTMusicReadme](https://github.com/SameerAlSahab/YTMusicReadme)*
-
-
-[// TODO: I will add some new projects soooon!]
+// TODO: I will add some new projects soooon!
